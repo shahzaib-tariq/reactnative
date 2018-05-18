@@ -3,7 +3,7 @@ import React from 'react';
 import Header from './src/component/header';
 const App=()=>{
 
-    return<Header headertext={'albumsnew123'} />;
+    return<Header headertext={'albumsnew12345'} />;
 };
 
 AppRegistry.registerComponent('albums', () => App);
